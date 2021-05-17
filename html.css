@@ -1,0 +1,85 @@
+body {
+  
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    
+    box-sizing: border-box;
+    margin: 0;
+  }
+  
+   
+  .text {
+   
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 8px;
+    letter-spacing: 3px;
+   
+  } 
+   .text li a:hover {
+  
+    color: green !important;
+    
+  }
+ 
+  .navbar-brand{
+    text-shadow: 1px 2px 3px green;
+    color: green;
+  }
+ .text{
+  font-size: 20px;
+}
+.navbar-brand{
+  font-size: 25px;
+  color: green;
+
+}
+h3,h1{
+  letter-spacing: 1px;
+}
+
+div .col-sm-2{
+  overflow: scroll;
+}
+.col-sm-2{
+  list-style-type: none;
+
+}
+.col-sm-2 li a:hover{
+  color: green;
+  text-decoration: none;
+}
+.col-sm-2 li a{
+  color: black;
+  
+}
+.right{
+  float: right;
+}
+.sz{
+  font-size: 15px;
+}
+.corl{
+  background-color: lightgray;
+  height: 360px;
+}
+.form-group{
+  margin: 10px;
+}
+.form-group textarea{
+  border-left: 4px solid green;
+}
+.btn-sm{
+  margin-top: 5px;
+}
+.scrollspy{
+  float: right;
+  overflow: scroll;
+}
+.fixed{
+  position: static;
+  overflow: scroll;
+  }

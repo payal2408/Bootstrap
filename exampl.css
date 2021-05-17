@@ -1,0 +1,109 @@
+body {
+  
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    
+    box-sizing: border-box;
+
+  }
+  .btn{
+    color: green;
+    border: 1px solid green;
+  }
+   .navbar-nav .btn:hover{
+    background-color: green;
+    color: white;
+  }
+  .navbar {
+   
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 8px;
+    letter-spacing: 3px;
+  } 
+  .navbar-nav  li a:hover {
+    color:  green  !important;
+    
+  }
+  .navbar-brand{
+    text-shadow: 1px 2px 3px green;
+    color: green;
+  }
+ .text{
+  font-size: 20px;
+}
+.navbar-brand{
+  font-size: 25px;
+  color: green;
+
+}
+h3,h1{
+  letter-spacing: 1px;
+}
+
+.bg-1{
+  background-color: green;
+  height: 300px;
+ }
+ 
+
+
+
+
+
+
+
+  .carousel-control.right, .carousel-control.left {
+   background-image: none;
+   color: gray;
+  }
+  .carousel-indicators li {
+    border-color: gray;
+  }
+  .carousel-indicators li.active {
+    background-color: gray;
+  }
+h1,h2,h3,h4,h5{
+ 
+   font-family: Montserrat, sans-serif;
+}
+.img{
+  background-color: green;
+
+  height: 480px;
+}
+.sz{
+  font-size: 14px;
+}
+.float{
+  text-align: left;
+}
+.clr{
+  color: green;
+}
+.bdr{
+  border-right: 1px solid gray;
+  opacity: 0.6;
+}
+.bdr1{
+  border-right: 1px solid gray;
+  border-top: 1px solid gray;
+  opacity: 0.6;
+}
+.bdr2{
+  border-top: 1px solid gray;
+  opacity: 0.6;
+}
+.bd{
+  opacity: 0.6;
+}
+
+h1,h2,h3{
+  color: green;
+}
+.pd{
+  padding: 5px;
+}
